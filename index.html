@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Time</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Meu Time</h1>
+    <button id="btnAdicionar">Adicionar Jogadora</button>
+  </header>
+
+  <section id="listaJogadoras" class="card-container"></section>
+
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span id="fecharModal" class="fechar">&times;</span>
+      <h2 id="tituloModal">Adicionar Jogadora</h2>
+      <form id="formJogadora">
+        <input type="text" id="nome" placeholder="Nome" required>
+        <input type="text" id="posicao" placeholder="Posição" required>
+        <input type="text" id="clube" placeholder="Clube" required>
+        <input type="url" id="foto" placeholder="URL da Foto" required>
+        <input type="hidden" id="id">
+        <button type="submit">Salvar</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
