@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Andressa Alves",
+    "posicao": "Meio-campo",
+    "clube": "Corinthians",
+    "foto": "https://example.com/andressa.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Dayana Rodríguez",
+    "posicao": "Meio-campo",
+    "clube": "Corinthians",
+    "foto": "https://example.com/dayana.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Mariza",
+    "posicao": "Zagueira",
+    "clube": "Corinthians",
+    "foto": "https://example.com/mariza.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Thaís Regina",
+    "posicao": "Zagueira",
+    "clube": "Corinthians",
+    "foto": "https://example.com/thais.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Letícia Teles",
+    "posicao": "Zagueira",
+    "clube": "Corinthians",
+    "foto": "https://example.com/leticia.jpg"
+  }
+]
